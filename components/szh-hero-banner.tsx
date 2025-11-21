@@ -40,7 +40,7 @@ export function SzhHeroBanner() {
 
             <div className="flex flex-wrap justify-center gap-2.5 md:gap-4 max-w-4xl mx-auto">
               <div className="flex items-center gap-2 md:gap-2.5">
-                <Image src="/srj.svg" alt="Shield" width={24} height={24} />
+                <Image src="/srij.svg" alt="Shield" width={24} height={24} />
                 <span className="text-white font-semibold text-sm md:text-base tracking-wide whitespace-nowrap">
                   Licencirane
                 </span>
