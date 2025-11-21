@@ -108,7 +108,7 @@ export function SzhMainFooter() {
                 href="https://www.gambleaware.org/"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="grayscale hover:grayscale-0 transition-all hover:scale-105"
+                className="transition-all hover:scale-105"
               >
                 <div className="relative w-[100px] h-[40px] bg-white border-2 border-magazine-border p-2">
                   <Image src="/gamble-aware.webp" alt="GambleAware" fill className="object-contain" />
@@ -118,7 +118,7 @@ export function SzhMainFooter() {
                 href="https://www.pbsvi.hr/strucni-programi-i-klub/kocka-terapijsko-rehabilitacijski-program-za-ovisnost-o-kockanju/"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="grayscale hover:grayscale-0 transition-all hover:scale-105"
+                className="transition-all hover:scale-105"
               >
                 <div className="relative w-[100px] h-[40px] bg-white border-2 border-magazine-border p-2">
                   <Image src="/pbsvi.svg" alt="PBSVI" fill className="object-contain" />
@@ -128,7 +128,7 @@ export function SzhMainFooter() {
                 href="https://www.hupis.hr/klok"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="grayscale hover:grayscale-0 transition-all hover:scale-105"
+                className="transition-all hover:scale-105"
               >
                 <div className="relative w-[100px] h-[40px] bg-white border-2 border-magazine-border p-2">
                   <Image src="/hupis.png" alt="HUPIS" fill className="object-contain" />
@@ -138,7 +138,7 @@ export function SzhMainFooter() {
                 href="https://www.gamstop.co.uk/"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="grayscale hover:grayscale-0 transition-all hover:scale-105"
+                className=" transition-all hover:scale-105"
               >
                 <div className="relative w-[100px] h-[40px] bg-white border-2 border-magazine-border p-2">
                   <Image src="/gamstop.svg" alt="GamStop" fill className="object-contain" />
@@ -148,7 +148,7 @@ export function SzhMainFooter() {
                 href="https://www.gamcare.org.uk/"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="grayscale hover:grayscale-0 transition-all hover:scale-105"
+                className="transition-all hover:scale-105"
               >
                 <div className="relative w-[100px] h-[40px] bg-white border-2 border-magazine-border p-2">
                   <Image src="/gamecare-new.svg" alt="GamCare" fill className="object-contain" />
