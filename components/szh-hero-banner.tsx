@@ -3,6 +3,7 @@
 import { useState } from "react"
 import { AdvertiserInfoModal } from "./advertiser-info-modal"
 import { Shield, Award, TrendingUp, CheckCircle } from "lucide-react"
+import Image from "next/image"
 
 export function SzhHeroBanner() {
   const [isModalOpen, setIsModalOpen] = useState(false)
@@ -39,7 +40,7 @@ export function SzhHeroBanner() {
 
             <div className="flex flex-wrap justify-center gap-2.5 md:gap-4 max-w-4xl mx-auto">
               <div className="flex items-center gap-2 md:gap-2.5">
-                <Shield className="w-5 h-5 md:w-6 md:h-6 text-white flex-shrink-0" />
+                <Image src="/srj.svg" alt="Shield" width={24} height={24} />
                 <span className="text-white font-semibold text-sm md:text-base tracking-wide whitespace-nowrap">
                   Licencirane
                 </span>
